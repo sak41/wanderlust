@@ -1,4 +1,8 @@
 {
+  "engines":{
+    "node" : "20.17.0"
+
+  },
   "name": "major",
   "version": "1.0.0",
   "main": "index.js",
